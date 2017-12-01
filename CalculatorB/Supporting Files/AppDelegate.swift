@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  CalculatorB
 //
-//  Created by Борис Винник on 20.10.2017.
+//  Created by Boris V on 20.10.2017.
 //  Copyright © 2017 GRIAL. All rights reserved.
 //
 
